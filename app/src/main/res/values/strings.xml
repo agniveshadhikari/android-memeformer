@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Memeformer</string>
+    <string name="top_input_hint">Top Caption</string>
+    <string name="bottom_input_hint">Bottom Caption</string>
+</resources>
